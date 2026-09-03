@@ -1,0 +1,6 @@
+- [x] Optimize `activity_main.xml` for mobile (fix banner and remove duplicates)
+- [x] Verify layout on mobile device
+- [x] Optimize `activity_product_list.xml` for mobile form factor
+    - [x] Update `item_product_card.xml` to prevent full-width stretching
+    - [x] Update `activity_product_list.xml` grid items with weights
+- [x] Verify Product List layout

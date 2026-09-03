@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="para_bg">#0A0A0A</color>
+    <color name="para_gold">#FFD700</color>
+    <color name="para_blood">#8B0000</color>
+    <color name="para_energy">#0086FF</color>
+    <color name="para_card_bg">#1A1A1A</color>
+    <color name="para_text_secondary">#AAAAAA</color>
+</resources>

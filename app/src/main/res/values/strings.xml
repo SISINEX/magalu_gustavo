@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Magalu Paranormal</string>
+    <string name="search_hint">Buscar itens de investigação...</string>
+    <string name="home_banner_title">O OUTRO LADO ESTÁ CHEGANDO</string>
+    <string name="home_banner_sub">Equipe-se para a próxima missão</string>
+    <string name="categories_title">Categorias Elementais</string>
+    <string name="featured_title">Ofertas do Outro Lado</string>
+
+    <string name="category_sangue">Sangue</string>
+    <string name="category_morte">Morte</string>
+    <string name="category_energia">Energia</string>
+    <string name="category_conhecimento">Conhecimento</string>
+
+    <string name="list_title_sangue">Itens de Sangue</string>
+    <string name="product_name_placeholder">Item Paranormal</string>
+    <string name="product_price_placeholder">R$ 1.000,00</string>
+    <string name="product_escudo">Escudo do Mestre - Ordem</string>
+    <string name="product_espreitador">Relíquia: O Espreitador</string>
+    <string name="product_floresta">Mapa: Floresta de Espinhos</string>
+    <string name="product_regras">Livro de Regras Vol. 1</string>
+
+    <string name="price_escudo">R$ 180,00</string>
+    <string name="price_espreitador">R$ 450,00</string>
+    <string name="price_floresta">R$ 80,00</string>
+    <string name="price_regras">R$ 220,00</string>
+    <string name="product_installments">em até 10x sem juros</string>
+
+    <string name="detail_name">O Anfitrião - Relíquia de Energia</string>
+    <string name="detail_code">Cód: 555-ENERGY-001</string>
+    <string name="detail_price">R$ 666,00</string>
+    <string name="detail_info_title">Informações Paranormais</string>
+    <string name="detail_description">Nível de Exposição: 50%\nEfeito: Controla as probabilidades e a diversão macabra.\n\nUma das relíquias mais perigosas do Outro Lado, capaz de transformar qualquer situação em um jogo mortal e imprevisível.</string>
+    <string name="add_to_inventory">ADICIONAR AO INVENTÁRIO</string>
+
+    <string name="cart_title">Seu Inventário</string>
+    <string name="cart_item_unit">1 unidade</string>
+    <string name="cart_subtotal">Subtotal</string>
+    <string name="cart_weight">Peso Total</string>
+    <string name="cart_weight_value">2.0 Espaços</string>
+    <string name="cart_total">Total</string>
+    <string name="cart_finish">FINALIZAR MISSÃO</string>
+
+    <string name="desc_back">Voltar</string>
+    <string name="desc_product_img">Imagem do produto</string>
+    <string name="desc_logo">Logo Magalu Paranormal</string>
+    <string name="desc_nav_home">Home</string>
+    <string name="desc_nav_search">Buscar</string>
+    <string name="desc_nav_cart">Carrinho</string>
+    <string name="desc_nav_profile">Perfil</string>
+</resources>
